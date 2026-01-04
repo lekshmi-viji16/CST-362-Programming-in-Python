@@ -1,0 +1,11 @@
+n=int(input("enter a number:"))
+if n%2==0:
+    print("Even")
+else:
+    print("Odd")
+
+"""
+output:
+enter a number:27
+Odd
+"""
